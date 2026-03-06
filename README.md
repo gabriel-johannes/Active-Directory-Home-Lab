@@ -2,7 +2,7 @@
 
 ![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D6?&style=for-the-badge&logo=Windows&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/-Active_Directory-003366?&style=for-the-badge&logo=Microsoft&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white)
+![VMware](https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=VMware&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?&style=for-the-badge)
 
 ## 📌 Objective
